@@ -40,4 +40,10 @@ elif choice == '3':
 elif choice == '4':
    print(num1,"/",num2,"=", divide(num1,num2))
 else:
+<<<<<<< HEAD
    print("Invalid input")
+=======
+   print("Invalid input")
+   print("Chenges for development branch")
+>>>>>>> development
+print("2nd commit to development for development branch")

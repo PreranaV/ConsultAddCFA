@@ -27,4 +27,9 @@ num2 = 24
 #num1 = int(input("Enter first number: "))
 #num2 = int(input("Enter second number: "))
 
+<<<<<<< HEAD
 print("The L.C.M. of", num1,"and", num2,"is", lcm(num1, num2))
+=======
+print("The L.C.M. of", num1,"and", num2,"is", lcm(num1, num2))
+print("Change for mater branch")
+>>>>>>> master

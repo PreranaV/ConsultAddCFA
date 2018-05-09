@@ -33,3 +33,4 @@ print("The L.C.M. of", num1,"and", num2,"is", lcm(num1, num2))
 print("The L.C.M. of", num1,"and", num2,"is", lcm(num1, num2))
 print("Change for mater branch")
 >>>>>>> master
+print("This change has been made to development branch on May 8 later to merge with master")
